@@ -1,6 +1,6 @@
 ## 🏆 Result
 ## 최종 1등
-[대회 URL](https://maic.or.kr/competitions/28/share-board/detail/942)/)
+[대회 URL](https://maic.or.kr/competitions/28/share-board/detail/942)
 
 병리영상과 임상정보를 활용한 흑색종 재발 예측 Task
 
